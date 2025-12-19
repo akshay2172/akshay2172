@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">A Full stack web developer who enjoys building reliable systems and clean APIs.</p>
+<p align="left">A Full stack web developer from India who enjoys building reliable systems and clean APIs.</p>
 
 ###
 
@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/akshay-kumar-2a8801220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="41" alt="linkedin logo"  />
   </a>
-  <a href="akshayk22@iitk.ac.in" target="_blank">
+  <a href="mailto:akshayk22@iitk.ac.in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="41" alt="gmail logo"  />
   </a>
 </div>
@@ -90,7 +90,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/akshay2172/akshay2172/output/snake.svg" alt="Snake animation" />
+<img src="https://mihail.co/media/2023/snake.gif" alt="Snake animation" />
 
 ###
 
